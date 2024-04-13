@@ -1,0 +1,58 @@
+{
+    "Science / \n Engineering": {
+        "Math": [
+            "Optimization",
+            "Differential Equations",
+            "Statistical Methods",
+            "Linear Algebra"
+
+        ],
+        "Control Systems": [
+            "LQR",
+            "PID"
+        ]
+    },
+    "Machine Learning": {
+        "Frameworks": [
+            "Pytorch",
+            "Tensorflow",
+            "ONNX"
+        ],
+        "Tasks": [
+            "Contrastive Learning",
+            "Classification",
+            "Segmentation",
+            "Object Detection",
+            "Multi-task",
+            "Multi-Modality"
+        ],
+        "Architectures": [
+            "MLP",
+            "SegFormer",
+            "VGG",
+            "ResNet",
+            "ViT"
+        ]
+    },
+    "Software": {
+        "Frameworks": [
+            "Git, Gitlab, Github",
+            "Streamlit",
+            "React",
+            "Kubernetes",
+            "Linux",
+            "Docker",
+            "AWS"
+        ],
+        "Languages": [
+            "Python",
+            "Docker",
+            "JS",
+            "Matlab",
+            "R",
+            "Lua",
+            "C/C++",
+            "SQL"
+        ]
+    }
+}
