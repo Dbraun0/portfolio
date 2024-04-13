@@ -83,7 +83,7 @@ summary, work_history, education, publications, certifications, personal_project
 with summary:
     st.markdown(
         '''
-        Hi There!
+        Hello!
         
         I am a Machine Learning Engineer at Lockheed Martin Space in Sunnyvale, CA.
         
