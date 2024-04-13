@@ -1,5 +1,5 @@
 {
-    "Science / \n Engineering": {
+    "Science / \n Eng.": {
         "Math": [
             "Optimization",
             "Differential Equations",
@@ -31,7 +31,9 @@
             "SegFormer",
             "VGG",
             "ResNet",
-            "ViT"
+            "ViT",
+            "Imagebind",
+            "Custom"
         ]
     },
     "Software": {
@@ -42,7 +44,8 @@
             "Kubernetes",
             "Linux",
             "Docker",
-            "AWS"
+            "AWS",
+            "PostgreSQL"
         ],
         "Languages": [
             "Python",

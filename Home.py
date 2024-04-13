@@ -37,9 +37,6 @@ def get_skills() -> dict:
 # Setup
 skills = get_skills()
 option = {
-    'title': {
-        'text': 'Skills'
-    },
     'series': {
         'type': 'sunburst',
         'data': skills,
@@ -96,6 +93,7 @@ with summary:
         '''
     )
     
+    st.markdown('### Skills')
     st_echarts(option, height='700px')
         
 with work_history: 
@@ -189,7 +187,7 @@ with education:
 with publications: 
     st.markdown(
         '''
-        [Acheiving Adversarial Robustness in Deep Learning-Based Overhead Imaging](https://ieeexplore.ieee.org/document/10092213)
+        [Achieving Adversarial Robustness in Deep Learning-Based Overhead Imaging](https://ieeexplore.ieee.org/document/10092213)
         
         [Video](https://drive.google.com/file/d/10G4t9vx0V1qpmAM80OY3AA40haM9ysg8/view?usp=sharing)
         
