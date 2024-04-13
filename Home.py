@@ -172,6 +172,8 @@ with education:
             ### Master of Engineering
             *Aeronautical Engineering - Space Focus*
             
+            Studied at Rensselaer Polytechnic Institute completing a M.E. in Aeronautical Engineering, with a focus on space systems. Graduate coursework included Numerical Design Optimization, with a final project consisting of programming a Deep Neural Network from scratch using Python, as well as a host of control systems classes leading to the implementation of a LQR controller to stabilize a model segway. The culmination of the M.E. degree consisted of developing a performance index and cost function for the selection and removal of space debris from orbit using cubesats and two-line Element sets.
+            
             ### Bachelor of Science
             *Aeronautical Engineering - Space Focus*
             '''
