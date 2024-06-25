@@ -68,7 +68,7 @@ option = {
 }
 
 # App
-st.image(requests.get('https://media.licdn.com/dms/image/C4E03AQEVT2v7J583CQ/profile-displayphoto-shrink_200_200/0/1539963072592?e=1718236800&v=beta&t=0nhQvmQFGCbiujJHqFvdleVIo-3j-B0tjhuhUu6vBq8').content)
+st.image(requests.get('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2i7kNfQrYKUB05NW18U8pQdbD7v_X_68pA&s').content)
 st.title('Dagen Braun')
 st.markdown('---')
 with st.expander('Links', expanded=False): 
