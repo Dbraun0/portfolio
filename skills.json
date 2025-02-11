@@ -1,6 +1,6 @@
 {
     "Science / \n Eng.": {
-        "Math": [
+        "Mathematics": [
             "Optimization",
             "Differential Equations",
             "Statistical Methods",
@@ -23,7 +23,7 @@
             "Classification",
             "Segmentation",
             "Object Detection",
-            "Multi-task",
+            "Multi-Task",
             "Multi-Modality"
         ],
         "Architectures": [

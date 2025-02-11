@@ -103,7 +103,7 @@ with work_history:
             ### Senior A AI/ML Engineer
             *October 2023 - Present*
             
-            Conducting computer vision-based machine learning research and development  as part of the Algorithms, Processing, and Simulations (APS) team in the Optical Payload Center of Excellence (OPCoE). 
+            Conducting and leading computer vision-based machine learning research and development as a PI in Lockheed Martin Space, focusing on advancing the field of multi-modality sensemaking. 
 
             Built and trained an airplane segmentation model for overhead imagery robust to differing spatial resolutions and image sources. Model was then deployed to production with NTK customers.
 
@@ -111,7 +111,7 @@ with work_history:
             
             Published a paper collaborating with MIT on utilizing biologically inspired image augmentation to increase model robustness to adversarial attacks in satellite imagery. Presented work at AIPR conference in D.C. as well as multiple GEOINT conferences. 
             
-            Built and am currently maintaining a NVIDIA-CUDA based docker image across the team for our ML research and development. 
+            Architected and currently maintaining a NVIDIA-CUDA based docker image across the team for our ML research and development. 
             
             ### A AI/ML Engineer
             *March 2023 - October 2023*
