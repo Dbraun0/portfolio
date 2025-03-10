@@ -1,0 +1,8 @@
+services:
+  portfolio: 
+    image: dbraun0/streamlit-portfolio:latest
+    container_name: docker_portfolio
+    ports:
+      - 8501:8501
+    volumes:
+      - .:/app

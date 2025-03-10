@@ -103,15 +103,16 @@ with work_history:
             ### Senior A AI/ML Engineer
             *October 2023 - Present*
             
-            Conducting and leading computer vision-based machine learning research and development as a PI in Lockheed Martin Space, focusing on advancing the field of multi-modality sensemaking. 
+            Principle Investigator leading computer vision-based machine learning research and development at Lockheed Martin Space, focusing on advancing the field of multi-modality sensemaking.
 
             Built and trained an airplane segmentation model for overhead imagery robust to differing spatial resolutions and image sources. Model was then deployed to production with NTK customers.
 
-            Created multitask classification models to simultaneously classify multiple airplane attributes for both continuous and discrete attributes. Follow on work led to \$750k NTK CRAD win as well as being included in a >\$120M NTK sole source follow on. 
-            
+            Developed multitask classification models to simultaneously classify multiple airplane attributes for both continuous and discrete data types. Follow-on work led to $750K NTK CRAD win as well as being included in a >$120M NTK sole source follow on. 
+
             Published a paper collaborating with MIT on utilizing biologically inspired image augmentation to increase model robustness to adversarial attacks in satellite imagery. Presented work at AIPR conference in D.C. as well as multiple GEOINT conferences. 
-            
-            Architected and currently maintaining a NVIDIA-CUDA based docker image across the team for our ML research and development. 
+
+            Architect/maintainer of NVIDIA-CUDA based Docker images across the team for internal ML research and development. 
+ 
             
             ### A AI/ML Engineer
             *March 2023 - October 2023*
