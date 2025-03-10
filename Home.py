@@ -107,7 +107,7 @@ with work_history:
 
             Built and trained an airplane segmentation model for overhead imagery robust to differing spatial resolutions and image sources. Model was then deployed to production with NTK customers.
 
-            Developed multitask classification models to simultaneously classify multiple airplane attributes for both continuous and discrete data types. Follow-on work led to $750K NTK CRAD win as well as being included in a >$120M NTK sole source follow on. 
+            Developed multitask classification models to simultaneously classify multiple airplane attributes for both continuous and discrete data types. Follow-on work led to \$750K NTK CRAD win as well as being included in a >\$120M NTK sole source follow on. 
 
             Published a paper collaborating with MIT on utilizing biologically inspired image augmentation to increase model robustness to adversarial attacks in satellite imagery. Presented work at AIPR conference in D.C. as well as multiple GEOINT conferences. 
 
